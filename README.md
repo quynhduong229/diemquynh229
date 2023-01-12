@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @diemquynh229
-- 👀 I’m interested in becoming rich
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a Computer Science major at Iowa State University
 
 <!---
 diemquynh229/diemquynh229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
